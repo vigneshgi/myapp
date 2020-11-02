@@ -6,12 +6,12 @@
 			"tz": "America/Los_Angeles",
 			"status": "Active",
 			"activity_periods": [{
-					"start_time": "Tue,Oct 29 2020 18:30:00 GMT",
-					"end_time": "Tue,Oct 29 2020 18:50:00 GMT"
+					"start_time": "Tue,Nov 02 2020 18:30:00 GMT",
+					"end_time": "Tue,Nov 02 2020 18:50:00 GMT"
 				},
 				{
-					"start_time": "wed,Oct 30 2020 18:30:00 GMT",
-					"end_time": "wed,Oct 30 2020 19:40:00  GMT"
+					"start_time": "wed,Nov 02 2020 18:30:00 GMT",
+					"end_time": "wed,Nov 02 2020 19:40:00  GMT"
 				},
 				{
 					"start_time": "Tue,Sep 15 2020 18:30:00 GMT",
@@ -25,8 +25,8 @@
 			"tz": "Asia/Kolkata",
 			"status": "InActive",
 			"activity_periods": [{
-				"start_time": "Tue,Sep 02 2020 18:30:00 GMT",
-				"end_time": "Tue, Sep 02 2020 18:39:00 GMT"
+				"start_time": "Tue,Nov 02 2020 18:30:00 GMT",
+				"end_time": "Tue, Nov 02 2020 18:39:00 GMT"
 			},
 			{
 				"start_time": "wed,Sep 02 2020 18:30:00 GMT",
@@ -44,12 +44,12 @@
 			"tz": "America/Los_Angeles",
 			"status": "Active",
 			"activity_periods": [{
-					"start_time": "Tue,Oct 19 2020 18:30:00 GMT",
-					"end_time": "Tue,Oct 19 2020 18:50:00 GMT"
+					"start_time": "Tue,Nov 02 2020 18:30:00 GMT",
+					"end_time": "Tue,Nov 02 2020 18:50:00 GMT"
 				},
 				{
-					"start_time": "wed,Oct 19 2020 18:30:00 GMT",
-					"end_time": "wed,Oct 19 2020 19:40:00  GMT"
+					"start_time": "wed,Nov 02 2020 18:30:00 GMT",
+					"end_time": "wed,Nov 02 2020 19:40:00  GMT"
 				},
 				{
 					"start_time": "Tue,Sep 15 2020 18:30:00 GMT",
@@ -63,8 +63,8 @@
 			"tz": "America/Los_Angeles",
 			"status": "Active",
 			"activity_periods": [{
-					"start_time": "Tue,Oct 23 2020 18:30:00 GMT",
-					"end_time": "Tue,Oct 23 2020 18:50:00 GMT"
+					"start_time": "Tue,Nov 02 2020 18:30:00 GMT",
+					"end_time": "Tue,Nov 02 2020 18:50:00 GMT"
 				},
 				{
 					"start_time": "wed,Oct 24 2020 18:30:00 GMT",

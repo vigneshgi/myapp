@@ -126,7 +126,7 @@ export default class Task extends Component {
                 </div>
                 <div className="row p-3">
                     <div className="col-sm-4 text-left">
-                        Pick a Date : <h6 class="font_sz">OCT 29</h6>
+                        Pick a Date : <h6 class="font_sz">Nov 2</h6>
                         <div className="pl-1">
                         <Calendar id="basic" value={this.state.date1} onChange={(e)=> this.selected_date(e)}/>
                         </div>
